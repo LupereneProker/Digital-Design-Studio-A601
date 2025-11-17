@@ -1,0 +1,231 @@
+{
+  "entrypoints": [
+    "main"
+  ],
+  "origins": {
+    "237": [
+      237
+    ],
+    "399": [
+      61,
+      401,
+      869,
+      399
+    ],
+    "17896441": [
+      399,
+      869,
+      401
+    ],
+    "main": [
+      354,
+      869,
+      792
+    ],
+    "runtime~main": [
+      792,
+      869,
+      354
+    ],
+    "0e384e19": [
+      976
+    ],
+    "1f391b9e": [
+      399,
+      869,
+      61
+    ],
+    "356a0ac6": [
+      750
+    ],
+    "5e95c892": [
+      647
+    ],
+    "a607578a": [
+      704
+    ],
+    "a7456010": [
+      235
+    ],
+    "a7bd4aaa": [
+      98
+    ],
+    "a94703ab": [
+      869,
+      48
+    ],
+    "aba21aa0": [
+      742
+    ],
+    "c4f5d8e4": [
+      634
+    ],
+    "e007a4f0": [
+      698
+    ],
+    "styles": [
+      48,
+      61,
+      354,
+      399,
+      401,
+      792,
+      869
+    ]
+  },
+  "assets": {
+    "48": {
+      "js": [
+        {
+          "file": "assets/js/a94703ab.e7911e41.js",
+          "hash": "c3fcdd053c2c3621",
+          "publicPath": "/Digital-Design-Studio-A601/assets/js/a94703ab.e7911e41.js"
+        }
+      ]
+    },
+    "61": {
+      "js": [
+        {
+          "file": "assets/js/1f391b9e.df814939.js",
+          "hash": "18be7f88dfaa19d7",
+          "publicPath": "/Digital-Design-Studio-A601/assets/js/1f391b9e.df814939.js"
+        }
+      ]
+    },
+    "98": {
+      "js": [
+        {
+          "file": "assets/js/a7bd4aaa.096e1801.js",
+          "hash": "dfe015cc4b491eff",
+          "publicPath": "/Digital-Design-Studio-A601/assets/js/a7bd4aaa.096e1801.js"
+        }
+      ]
+    },
+    "235": {
+      "js": [
+        {
+          "file": "assets/js/a7456010.1d17bace.js",
+          "hash": "2d2be143a55a0dd0",
+          "publicPath": "/Digital-Design-Studio-A601/assets/js/a7456010.1d17bace.js"
+        }
+      ]
+    },
+    "237": {
+      "js": [
+        {
+          "file": "assets/js/237.4aeda07b.js",
+          "hash": "88a465d528781e5f",
+          "publicPath": "/Digital-Design-Studio-A601/assets/js/237.4aeda07b.js"
+        }
+      ]
+    },
+    "354": {
+      "js": [
+        {
+          "file": "assets/js/runtime~main.be8cece0.js",
+          "hash": "993c913fb65916bf",
+          "publicPath": "/Digital-Design-Studio-A601/assets/js/runtime~main.be8cece0.js"
+        }
+      ]
+    },
+    "399": {
+      "js": [
+        {
+          "file": "assets/js/399.80a9f46d.js",
+          "hash": "9f4e27951a277cb9",
+          "publicPath": "/Digital-Design-Studio-A601/assets/js/399.80a9f46d.js"
+        }
+      ]
+    },
+    "401": {
+      "js": [
+        {
+          "file": "assets/js/17896441.24e3f96d.js",
+          "hash": "54c219eb7bbec185",
+          "publicPath": "/Digital-Design-Studio-A601/assets/js/17896441.24e3f96d.js"
+        }
+      ]
+    },
+    "634": {
+      "js": [
+        {
+          "file": "assets/js/c4f5d8e4.d34b29eb.js",
+          "hash": "e39c4d2c0040ed3f",
+          "publicPath": "/Digital-Design-Studio-A601/assets/js/c4f5d8e4.d34b29eb.js"
+        }
+      ]
+    },
+    "647": {
+      "js": [
+        {
+          "file": "assets/js/5e95c892.a18534c8.js",
+          "hash": "f8a0ffcdde959b64",
+          "publicPath": "/Digital-Design-Studio-A601/assets/js/5e95c892.a18534c8.js"
+        }
+      ]
+    },
+    "698": {
+      "js": [
+        {
+          "file": "assets/js/e007a4f0.40144259.js",
+          "hash": "9831782d9f7b1b3a",
+          "publicPath": "/Digital-Design-Studio-A601/assets/js/e007a4f0.40144259.js"
+        }
+      ]
+    },
+    "704": {
+      "js": [
+        {
+          "file": "assets/js/a607578a.18dd3d0b.js",
+          "hash": "7609f0cf844773a6",
+          "publicPath": "/Digital-Design-Studio-A601/assets/js/a607578a.18dd3d0b.js"
+        }
+      ]
+    },
+    "742": {
+      "js": [
+        {
+          "file": "assets/js/aba21aa0.f75caa6b.js",
+          "hash": "bff8ca7028f31d22",
+          "publicPath": "/Digital-Design-Studio-A601/assets/js/aba21aa0.f75caa6b.js"
+        }
+      ]
+    },
+    "750": {
+      "js": [
+        {
+          "file": "assets/js/356a0ac6.c9f31647.js",
+          "hash": "04656e4571cdff1b",
+          "publicPath": "/Digital-Design-Studio-A601/assets/js/356a0ac6.c9f31647.js"
+        }
+      ]
+    },
+    "792": {
+      "js": [
+        {
+          "file": "assets/js/main.4c851d8a.js",
+          "hash": "029b83109a58422e",
+          "publicPath": "/Digital-Design-Studio-A601/assets/js/main.4c851d8a.js"
+        }
+      ]
+    },
+    "869": {
+      "css": [
+        {
+          "file": "assets/css/styles.8ea81491.css",
+          "hash": "d3f12d6fe3e4474e",
+          "publicPath": "/Digital-Design-Studio-A601/assets/css/styles.8ea81491.css"
+        }
+      ]
+    },
+    "976": {
+      "js": [
+        {
+          "file": "assets/js/0e384e19.4f2a828d.js",
+          "hash": "29b4ae9fbf34d49e",
+          "publicPath": "/Digital-Design-Studio-A601/assets/js/0e384e19.4f2a828d.js"
+        }
+      ]
+    }
+  }
+}

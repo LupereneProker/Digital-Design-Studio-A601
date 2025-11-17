@@ -27,9 +27,6 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
         },
-        blog: {
-          showReadingTime: true,
-        },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
@@ -50,7 +47,6 @@ const config = {
           {to: '/projects', label: 'Projects', position: 'left'},
           {to: '/about', label: 'About', position: 'left'},
           {to: '/docs/intro', label: 'Docs', position: 'left'},
-          {to: '/blog', label: 'Blog', position: 'left'},
         ],
       },
       footer: {

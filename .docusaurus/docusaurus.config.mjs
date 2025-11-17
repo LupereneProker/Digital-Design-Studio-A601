@@ -7,10 +7,10 @@ export default {
   "title": "Fictional Engineering",
   "tagline": "A601 · Fictional Engineering Lab",
   "favicon": "img/logo.svg",
-  "url": "https://example.com",
-  "baseUrl": "/",
-  "organizationName": "fictional-engineering",
-  "projectName": "fictional-engineering-site",
+  "url": "https://LupereneProker.github.io",
+  "baseUrl": "/Digital-Design-Studio-A601/",
+  "organizationName": "LupereneProker",
+  "projectName": "Digital-Design-Studio-A601",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "i18n": {
@@ -26,13 +26,13 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "C:\\Users\\Luper\\Desktop\\FIctional Engineering Web\\fictional-engineering-docusaurus\\sidebars.js"
+          "sidebarPath": "C:\\Users\\Luper\\Desktop\\web\\fictional-engineering-docusaurus\\sidebars.js"
         },
         "blog": {
           "showReadingTime": true
         },
         "theme": {
-          "customCss": "C:\\Users\\Luper\\Desktop\\FIctional Engineering Web\\fictional-engineering-docusaurus\\src\\css\\custom.css"
+          "customCss": "C:\\Users\\Luper\\Desktop\\web\\fictional-engineering-docusaurus\\src\\css\\custom.css"
         }
       }
     ]
