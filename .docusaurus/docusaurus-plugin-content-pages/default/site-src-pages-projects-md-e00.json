@@ -1,0 +1,11 @@
+{
+  "type": "mdx",
+  "permalink": "/projects",
+  "source": "@site/src/pages/projects.md",
+  "title": "Projects",
+  "description": "Assistive Guitar Fretting Device",
+  "frontMatter": {
+    "title": "Projects"
+  },
+  "unlisted": false
+}
