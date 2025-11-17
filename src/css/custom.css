@@ -1,1 +1,73 @@
 /* Custom styles for Fictional Engineering site */
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;600;700&display=swap');
+
+:root {
+  --ifm-font-family-base: 'Orbitron', sans-serif;
+}
+
+
+:root {
+  --ifm-color-primary: #ff7a00;
+  --ifm-color-primary-dark: #e86d00;
+  --ifm-color-primary-darker: #cc6000;
+  --ifm-color-primary-darkest: #a44c00;
+  --ifm-color-primary-light: #ff8e26;
+  --ifm-color-primary-lighter: #ffa452;
+  --ifm-color-primary-lightest: #ffbf85;
+
+  --ifm-background-color: #ffffff;
+  --ifm-navbar-background-color: #000000;
+  --ifm-footer-background-color: #000000;
+}
+
+[data-theme='dark'] {
+  --ifm-background-color: #000000;
+  --ifm-navbar-background-color: #000000;
+  --ifm-footer-background-color: #111111;
+  --ifm-color-primary: #ff7a00;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.button--primary {
+  transition: 0.3s ease;
+  box-shadow: 0 0 0px rgba(255, 122, 0, 0.5);
+}
+
+.button--primary:hover {
+  transform: translateY(-2px) scale(1.03);
+  box-shadow: 0 0 20px rgba(255, 122, 0, 0.9);
+}
+
+.navbar__item {
+  transition: 0.2s ease;
+}
+
+.navbar__item:hover {
+  color: #ff7a00 !important;
+  text-shadow: 0 0 8px rgba(255, 122, 0, 0.8);
+}
+
+#nprogress .bar {
+  background: #ff7a00 !important;
+}
+#nprogress .peg {
+  box-shadow: 0 0 10px #ff7a00, 0 0 5px #ff7a00 !important;
+}
+
+
+

@@ -28,9 +28,6 @@ export default {
         "docs": {
           "sidebarPath": "C:\\Users\\Luper\\Desktop\\web\\fictional-engineering-docusaurus\\sidebars.js"
         },
-        "blog": {
-          "showReadingTime": true
-        },
         "theme": {
           "customCss": "C:\\Users\\Luper\\Desktop\\web\\fictional-engineering-docusaurus\\src\\css\\custom.css"
         }
@@ -58,11 +55,6 @@ export default {
         {
           "to": "/docs/intro",
           "label": "Docs",
-          "position": "left"
-        },
-        {
-          "to": "/blog",
-          "label": "Blog",
           "position": "left"
         }
       ],
