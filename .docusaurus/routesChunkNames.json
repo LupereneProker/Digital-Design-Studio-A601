@@ -1,90 +1,47 @@
 {
-  "/Digital-Design-Studio-A601/__docusaurus/debug-901": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---digital-design-studio-a-601-docusaurus-debugb-38-45a"
-    }
-  },
-  "/Digital-Design-Studio-A601/__docusaurus/debug/config-727": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---digital-design-studio-a-601-docusaurus-debugb-38-45a"
-    }
-  },
-  "/Digital-Design-Studio-A601/__docusaurus/debug/content-e6d": {
-    "__comp": "__comp---theme-debug-contentba-8-ce7",
-    "__context": {
-      "plugin": "plugin---digital-design-studio-a-601-docusaurus-debugb-38-45a"
-    },
-    "__props": "__props---digital-design-studio-a-601-docusaurus-debug-contentd-0-c-769"
-  },
-  "/Digital-Design-Studio-A601/__docusaurus/debug/globalData-994": {
-    "__comp": "__comp---theme-debug-global-dataede-0fa",
-    "__context": {
-      "plugin": "plugin---digital-design-studio-a-601-docusaurus-debugb-38-45a"
-    }
-  },
-  "/Digital-Design-Studio-A601/__docusaurus/debug/metadata-de3": {
-    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
-    "__context": {
-      "plugin": "plugin---digital-design-studio-a-601-docusaurus-debugb-38-45a"
-    }
-  },
-  "/Digital-Design-Studio-A601/__docusaurus/debug/registry-1e7": {
-    "__comp": "__comp---theme-debug-registry-679-501",
-    "__context": {
-      "plugin": "plugin---digital-design-studio-a-601-docusaurus-debugb-38-45a"
-    }
-  },
-  "/Digital-Design-Studio-A601/__docusaurus/debug/routes-e22": {
-    "__comp": "__comp---theme-debug-routes-946-699",
-    "__context": {
-      "plugin": "plugin---digital-design-studio-a-601-docusaurus-debugb-38-45a"
-    }
-  },
   "/Digital-Design-Studio-A601/about-b45": {
-    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__comp": "1f391b9e",
     "__context": {
-      "plugin": "plugin---digital-design-studio-a-601-abouta-74-10e"
+      "plugin": "a7456010"
     },
-    "content": "content---digital-design-studio-a-601-about-356-254"
+    "content": "356a0ac6"
   },
   "/Digital-Design-Studio-A601/projects-6c2": {
-    "__comp": "__comp---site-src-pages-projects-jsee-7-a5f",
+    "__comp": "ee7ef1d2",
     "__context": {
-      "plugin": "plugin---digital-design-studio-a-601-abouta-74-10e"
+      "plugin": "a7456010"
     },
-    "config": "config---digital-design-studio-a-601-projects-5-e-9-a8e"
+    "config": "5e9f5e1a"
   },
   "/Digital-Design-Studio-A601/projects-f80": {
-    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__comp": "1f391b9e",
     "__context": {
-      "plugin": "plugin---digital-design-studio-a-601-abouta-74-10e"
+      "plugin": "a7456010"
     },
-    "content": "content---digital-design-studio-a-601-projectse-00-63b"
+    "content": "e007a4f0"
   },
   "/Digital-Design-Studio-A601/docs-899": {
-    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__comp": "5e95c892",
     "__context": {
-      "plugin": "plugin---digital-design-studio-a-601-docsaba-0e3"
+      "plugin": "aba21aa0"
     }
   },
   "/Digital-Design-Studio-A601/docs-7ee": {
-    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
-    "__props": "__props---digital-design-studio-a-601-docsa-60-47a"
+    "__comp": "a7bd4aaa",
+    "__props": "a607578a"
   },
   "/Digital-Design-Studio-A601/docs-c2d": {
-    "__comp": "__comp---theme-doc-roota-94-67a"
+    "__comp": "a94703ab"
   },
   "/Digital-Design-Studio-A601/docs/intro-e67": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---digital-design-studio-a-601-docs-intro-0-e-3-35c"
+    "__comp": "17896441",
+    "content": "0e384e19"
   },
   "/Digital-Design-Studio-A601/-08b": {
-    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
+    "__comp": "c4f5d8e4",
     "__context": {
-      "plugin": "plugin---digital-design-studio-a-601-abouta-74-10e"
+      "plugin": "a7456010"
     },
-    "config": "config---digital-design-studio-a-601-projects-5-e-9-a8e"
+    "config": "5e9f5e1a"
   }
 }

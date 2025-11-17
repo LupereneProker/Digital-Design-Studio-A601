@@ -58,10 +58,15 @@
       742
     ],
     "c4f5d8e4": [
+      869,
       634
     ],
     "e007a4f0": [
       698
+    ],
+    "ee7ef1d2": [
+      869,
+      996
     ],
     "styles": [
       48,
@@ -69,7 +74,9 @@
       354,
       399,
       401,
+      634,
       792,
+      996,
       869
     ]
   },
@@ -122,9 +129,9 @@
     "354": {
       "js": [
         {
-          "file": "assets/js/runtime~main.be8cece0.js",
-          "hash": "6c76bc60c8602894",
-          "publicPath": "/Digital-Design-Studio-A601/assets/js/runtime~main.be8cece0.js"
+          "file": "assets/js/runtime~main.248e6aae.js",
+          "hash": "c3439a7bd1e7bd2d",
+          "publicPath": "/Digital-Design-Studio-A601/assets/js/runtime~main.248e6aae.js"
         }
       ]
     },
@@ -149,9 +156,9 @@
     "634": {
       "js": [
         {
-          "file": "assets/js/c4f5d8e4.d34b29eb.js",
-          "hash": "e39c4d2c0040ed3f",
-          "publicPath": "/Digital-Design-Studio-A601/assets/js/c4f5d8e4.d34b29eb.js"
+          "file": "assets/js/c4f5d8e4.44bbbc9f.js",
+          "hash": "dc1e484ff6cfa159",
+          "publicPath": "/Digital-Design-Studio-A601/assets/js/c4f5d8e4.44bbbc9f.js"
         }
       ]
     },
@@ -203,18 +210,18 @@
     "792": {
       "js": [
         {
-          "file": "assets/js/main.5e24b33c.js",
-          "hash": "6c449acda9c049aa",
-          "publicPath": "/Digital-Design-Studio-A601/assets/js/main.5e24b33c.js"
+          "file": "assets/js/main.5d473441.js",
+          "hash": "9dcd04ce350ad84f",
+          "publicPath": "/Digital-Design-Studio-A601/assets/js/main.5d473441.js"
         }
       ]
     },
     "869": {
       "css": [
         {
-          "file": "assets/css/styles.8ea81491.css",
-          "hash": "d3f12d6fe3e4474e",
-          "publicPath": "/Digital-Design-Studio-A601/assets/css/styles.8ea81491.css"
+          "file": "assets/css/styles.97450dbc.css",
+          "hash": "f8433d2bc8241070",
+          "publicPath": "/Digital-Design-Studio-A601/assets/css/styles.97450dbc.css"
         }
       ]
     },
@@ -224,6 +231,15 @@
           "file": "assets/js/0e384e19.4f2a828d.js",
           "hash": "29b4ae9fbf34d49e",
           "publicPath": "/Digital-Design-Studio-A601/assets/js/0e384e19.4f2a828d.js"
+        }
+      ]
+    },
+    "996": {
+      "js": [
+        {
+          "file": "assets/js/ee7ef1d2.cf4e49a3.js",
+          "hash": "b328b704b378c4ab",
+          "publicPath": "/Digital-Design-Studio-A601/assets/js/ee7ef1d2.cf4e49a3.js"
         }
       ]
     }
