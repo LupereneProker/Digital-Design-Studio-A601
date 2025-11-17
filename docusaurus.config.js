@@ -4,11 +4,12 @@ const config = {
   tagline: 'A601 · Fictional Engineering Lab',
   favicon: 'img/logo.svg',
 
-  url: 'https://example.com',
-  baseUrl: '/',
+  url:'https://LupereneProker.github.io',
+  baseUrl: '/Digital-Design-Studio-A601/',
 
-  organizationName: 'fictional-engineering',
-  projectName: 'fictional-engineering-site',
+  organizationName: 'LupereneProker',
+  projectName: 'Digital-Design-Studio-A601',
+
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
